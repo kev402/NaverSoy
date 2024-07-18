@@ -1,5 +1,5 @@
 body {
-    background-image: url('C:/NaverSoy/assets/background.jpg');
+    background-image: url('/assets/background.jpg');
     background-size: cover;
     font-family: Arial, sans-serif;
     color: white;
